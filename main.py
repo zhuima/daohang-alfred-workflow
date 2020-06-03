@@ -14,7 +14,6 @@ def get_recent_sites():
     Returns a list of sites dictionaries.
 
     """
-    # url = "http://finder.danke.life/datas/"
 
     url = "http://127.0.0.1:8008/datas/"
 
